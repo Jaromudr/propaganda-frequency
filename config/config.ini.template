@@ -1,0 +1,4 @@
+[Telegram API credentials]
+api_id = 123456
+api_hash = you_api_hash
+phone = you_phone
